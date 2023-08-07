@@ -34,7 +34,7 @@ fields_of_interests:
   
 currently_learning: ["Angular", "Springboot", "MongoDB", "NodeJs"],
 ask_me_about : ["Java", "C", "C++", "c#", "javaScript", "ReactJs"]
-2022 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
+2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 ```
   
 --- 
