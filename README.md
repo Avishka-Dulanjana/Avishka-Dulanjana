@@ -39,12 +39,6 @@ ask_me_about : ["Java", "C", "C++", "c#", "javaScript", "ReactJs"]
   
 --- 
 
-<h3 align="left">🤝 &nbsp;Connect with me:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/avishka-dulanjana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimna" height="30" width="40" /></a>
-<a href="https://www.facebook.com/avishka.dulanjana.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aviyaa_97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimna thiranjaya" height="30" width="40" /></a>
-</p>
 <br>
 <h3 align="left">💻 &nbsp; Languages and Tools</h3>
 <table><tr><td valign="top" width="33%">
@@ -91,23 +85,21 @@ ask_me_about : ["Java", "C", "C++", "c#", "javaScript", "ReactJs"]
 
 <br>
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimna-thiranjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+<div align="left">
+  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Avishka-Dulanjana&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img width="38%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+  </div>  
 
-  
-  <br>
+  </a>
+</p>
 
-<h3 align="left">Most Used Languages :</h3>
-<!-- GitHub Readme languages Stats - https://github.com/nimna-thiranjaya/github-readme-streak-stats -->
+<br>
+
+<h3 align="center">🤝 &nbsp;Connect with me:</h3>
 <p align="center">
-  <a href="https://github.com/nimna-thiranjaya/github-readme-streak-stats">
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimna-thiranjaya&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
-  </a>
-  
-  <a href="https://github.com/nimna-thiranjaya/github-readme-cotribution-stats">
-    <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
-
-  </a>
+ <a href="https://www.linkedin.com/in/avishka-dulanjana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishka dulanjana" height="30" width="40" /></a>
+<a href="https://www.facebook.com/avishka.dulanjana.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avishka dulanjana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aviyaa_97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avishka dulanjana" height="30" width="40" /></a>
 </p>
 
 <p align="center">
