@@ -86,7 +86,8 @@ ask_me_about : ["Java", "C", "C++", "c#", "javaScript", "ReactJs"]
 <br>
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <div align="left">
-  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Avishka-Dulanjana&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Avishka-Dulanjana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" align="center" />
   <img width="38%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
   </div>  
 
