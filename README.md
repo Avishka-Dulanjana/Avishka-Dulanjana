@@ -33,7 +33,7 @@ fields_of_interests:
   ],
   
 currently_learning: ["Angular", "ReactJs"],
-ask_me_about : ["Java", "Springboot", "NodeJs", "MongoDB", "MySql", "javaScript"]
+ask_me_about : ["Java", "Springboot", "NodeJs", "MongoDB", "MySql", "javaScript"],
 2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 ```
   
