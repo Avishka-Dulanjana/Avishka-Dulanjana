@@ -32,8 +32,8 @@ fields_of_interests:
     "Full Stack Development",
   ],
   
-currently_learning: ["Angular", "ReactJs", "NodeJs", "MongoDB"],
-ask_me_about : ["Java", "Springboot", "MySql", "javascript"],
+currently_learning: ["Python", "Machine Learning", "Flutter"],
+ask_me_about : ["Java", "Springboot", "MySql", "JavaScript", "NodeJs", "MongoDB"],
 2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 ```
   
