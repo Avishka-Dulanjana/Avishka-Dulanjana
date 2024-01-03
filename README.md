@@ -18,6 +18,8 @@
 
 <h2> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> &nbsp;A Little Bit About Me & My Interests</h2>
 
+<br>
+
 ```yaml
 name: "Avishka Dulanjana",
 located_in: "Mattegoda, Sri Lanka",
