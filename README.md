@@ -18,8 +18,6 @@
 
 <h2> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> &nbsp;A Little Bit About Me & My Interests</h2>
 
-<br>
-
 ```yaml
 name: "Avishka Dulanjana",
 located_in: "Mattegoda, Sri Lanka",
@@ -44,11 +42,10 @@ currently_learning: ["Python", "Machine Learning", "Flutter"],
 ask_me_about : ["Java", "Springboot", "MySql", "JavaScript", "NodeJs", "MongoDB"],
 2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 ``` 
-</br>
 
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> &nbsp; Languages & Tools</h2>
-
+</br>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -78,8 +75,6 @@ ask_me_about : ["Java", "Springboot", "MySql", "JavaScript", "NodeJs", "MongoDB"
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
@@ -87,7 +82,6 @@ ask_me_about : ["Java", "Springboot", "MySql", "JavaScript", "NodeJs", "MongoDB"
 
 </td></tr></table>  
 
-<br>
 <h2 align="center">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;My GitHub History</h2>
 
 <!--- stats & Trophy (start) -->
