@@ -42,6 +42,7 @@ currently_learning: ["Python", "Machine Learning", "Flutter"],
 ask_me_about : ["Java", "Springboot", "MySql", "JavaScript", "NodeJs", "MongoDB"],
 2023 Goals: ["Create 20+ Projects and learn at least 3 new Technologies"],
 ``` 
+</br>
 
 <br>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> &nbsp; Languages & Tools</h2>
