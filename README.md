@@ -3,7 +3,7 @@
 </p>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi+There+I'm+Avishka+Dulanjana;%f0%9f%92%99+SLIIT+Undergraduate+Student;%f0%9f%92%9a+Software+Engineer;%f0%9f%92%9b+Python+Machine+Learning+Developer;Java+Springboot+Back-End+Developer;%f0%9f%92%9c+Flutter+Mobile+Apps+Developer;%f0%9f%92%8e+Royalist+%f0%9f%92%8e" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi+There+I'm+Avishka+Dulanjana;%f0%9f%92%99+SLIIT+Undergraduate+Student;%f0%9f%92%9a+Software+Engineer;Python+Machine+Learning+Developer;Java+Springboot+Back-End+Developer;%f0%9f%92%9c+Flutter+Mobile+Apps+Developer;%f0%9f%92%8e+Royalist+%f0%9f%92%8e" alt="Headline" />
     </div>
 
 <br>
